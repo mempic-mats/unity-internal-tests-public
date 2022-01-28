@@ -3,3 +3,10 @@
 --- !u!129 &1
 PlayerSettings:
   bundleVersion: 1.0.0
+  buildNumber:
+    iPhone: 1
+  AndroidBundleVersionCode: 1
+  scriptingBackend:
+    Android: 1
+  scriptingDefineSymbols:
+    0:
