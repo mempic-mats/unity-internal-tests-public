@@ -6,5 +6,7 @@ PlayerSettings:
   buildNumber:
     iPhone: 1
   AndroidBundleVersionCode: 1
+  scriptingBackend:
+    Android: 1
   scriptingDefineSymbols:
     0:
