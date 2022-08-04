@@ -1,4 +1,4 @@
-## ~name
+## Internal Tests Public
 
 ![](Assets/Banners/banner.1024.500.png)
 
